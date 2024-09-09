@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.rishmi5h</groupId>
-	<artifactId>workoutTracker</artifactId>
+	<artifactId>workout_tracker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>workoutTracker</name>
+	<name>workout_tracker</name>
 	<description>Workout tracker backend</description>
 	<url/>
 	<licenses>
