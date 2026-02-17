@@ -30,3 +30,8 @@ replay_pid*
 mysql/*
 
 target/*
+
+# Client
+client/node_modules/
+client/dist/
+client/.env
