@@ -27,6 +27,6 @@
     "lucide-react": "^0.574.0",
     "react-router-dom": "^7.13.0",
     "tailwindcss": "^4.1.18",
-    "vite": "^7.3.1"
+    "vite": "^7.3.2"
   }
 }
